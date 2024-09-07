@@ -31,7 +31,7 @@ while True:
         task_num = int(input("Enter task number to delete: "))
         delete_task(task_num)
     elif choice == '4':
-        print("Exiting...")
+        print(".........")
         break
     else:
         print("Invalid option, try again!")
